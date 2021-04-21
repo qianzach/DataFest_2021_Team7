@@ -1,2 +1,2 @@
 # Team7DataFest
-Team  7's Datafest Landing Page
+Team  7's Datafest Landing Page. *Dattebayo*.
